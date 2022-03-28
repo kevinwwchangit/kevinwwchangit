@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kevinwwchangit
-- 
 - 👀 I'm an Economics Graduate from UC Berkeley with experiences in Financial Analysis at Lockheed Martin, Revenue Accounting at VMware, Customer Success at Salesforce, and Professional Services at Salsify.
-- 🌱 I’m currently learning about Full Stack Development through the Odin Project and will also be starting Launch School in May.
-- 💞️ I’m looking to collaborate on any and all coding projects.
+- 🌱 I’m currently learning  Full Stack Development through the Odin Project and Launch School (starting in May).
+- 💞️ I’m looking to collaborate on any and all projects.
 - 📫 Feel free to reach out to me on LinkedIn - https://www.linkedin.com/in/kevin-c-a5aab5b7/
 
 <!---
